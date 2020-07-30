@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'sensordatavisualization'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_e386e21bd3284aa592493d8eb30f7e28 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a595929997624e3e86d68ba82d18e21d }}
         package: .
